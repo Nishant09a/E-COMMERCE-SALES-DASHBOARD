@@ -1,7 +1,7 @@
 # E-COMMERCE-SALES-DASHBOARD
 E-COMMERCE SALES PROJECT - POWER BI
 
-project overview link - 
+project overview link - [https://www.novypro.com/project/e-commerce-sales-dashboard-43](url)
 
 
 Problem Statement : A US Based Ecommerce Sales Company wants us to create a Sales Dashboard Showing Information Of YTD Sales and generate insights for company.
